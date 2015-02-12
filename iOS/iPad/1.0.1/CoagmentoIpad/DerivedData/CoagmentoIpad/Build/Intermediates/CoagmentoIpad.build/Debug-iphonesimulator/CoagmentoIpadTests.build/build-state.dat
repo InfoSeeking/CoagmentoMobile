@@ -1,0 +1,251 @@
+TCoagmentoIpadTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/Info.plist /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests-Info.plist
+cProcessPCH /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.pch CoagmentoIpad/CoagmentoIpad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests normal i386
+cGenerateDSYMFile /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests
+cCopyStringsFile /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/en.lproj/InfoPlist.strings CoagmentoIpadTests/en.lproj/InfoPlist.strings
+cTouch /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/XCTest.framework/XCTest
+c0000000052BB5F5900000000000256F0
+t1388011353
+s153328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052BB5F6900000000000003B5
+t1388011369
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052BB5F6E00000000000001A0
+t1388011374
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052BB5F70000000000088C680
+t1388011376
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052BB5F750000000001DB9910
+t1388011381
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052BB5FB20000000000000AC9
+t1388011442
+s2761
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpad/CoagmentoIpad-Prefix.pch
+c0000000052BF7FA00000000000000158
+t1388281760
+s344
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests-Info.plist
+c0000000052BF7F9000000000000002B3
+t1388281744
+s691
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m
+c0000000052BF7F8E0000000000000294
+t1388281742
+s660
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/en.lproj/InfoPlist.strings
+c0000000052BF7FA8000000000000002D
+t1388281768
+s45
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.LinkFileList
+c0000000052C0CE0C00000000000000C2
+t1388367372
+s194
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o
+t1388367375
+s8228
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.pch
+t1388367375
+s108992
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest
+t1388367375
+s170
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM
+t2
+s0
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests
+t1388367375
+s10616
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/Info.plist
+t1388367372
+s519
+
+N/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/en.lproj/InfoPlist.strings
+t1388367375
+s42
+
+CAnalyzeShallow /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m
+r0
+
+CBuild AST from /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7d41f38c0571b841^6a15f98c0571b841^---0#1#1#--18"Check dependencies36"03255C73-24BB-4D57-B3B2-F29DF720F9D4-
+
+CCompileC DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410060175.320371
+e410060175.458416
+r1
+xCompileC
+xDerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o
+x/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m270"CompileC DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o CoagmentoIpadTests/CoagmentoIpadTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere014528f0571b841^ab5b758f0571b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m0000000000000000^4569"CompileC DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o CoagmentoIpadTests/CoagmentoIpadTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/norisrivas/Desktop/CoagmentoIpad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-generated-files.hmap -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-own-target-headers.hmap -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-all-target-headers.hmap -iquote /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-project-headers.hmap -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/DerivedSources/i386 -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/DerivedSources -F/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch -MMD -MT dependencies -MF /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.d --serialize-diagnostics /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.dia -c /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests.m -o /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o36"4095CBEB-C4FD-43D1-80DB-9D7A0D85EA5D-
+b79A38CCD-6590-40D9-A45A-D76F7F07C453
+
+CCopyStringsFile /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/en.lproj/InfoPlist.strings CoagmentoIpadTests/en.lproj/InfoPlist.strings
+s410060175.534428
+e410060175.557601
+r1
+xCopyStringsFile
+x/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/en.lproj/InfoPlist.strings
+xCoagmentoIpadTests/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy CoagmentoIpadTests/en.lproj/InfoPlist.strings177"CopyStringsFile DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/en.lproj/InfoPlist.strings CoagmentoIpadTests/en.lproj/InfoPlist.strings05db888f0571b841^94c08e8f0571b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/en.lproj/InfoPlist.strings0000000000000000^697"CopyStringsFile DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/en.lproj/InfoPlist.strings CoagmentoIpadTests/en.lproj/InfoPlist.strings    cd /Users/norisrivas/Desktop/CoagmentoIpad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/en.lproj -- CoagmentoIpadTests/en.lproj/InfoPlist.strings36"9CF06760-823D-44C5-8E1D-37CF59C87B3D-
+b79A38CCD-6590-40D9-A45A-D76F7F07C453
+
+CGenerateDSYMFile /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests
+s410060175.525291
+e410060175.534166
+r1
+xGenerateDSYMFile
+x/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM
+x/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generate /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM218"GenerateDSYMFile DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests408a868f0571b841^a1bf888f0571b841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM0034d465ddffdf42^846"GenerateDSYMFile DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests    cd /Users/norisrivas/Desktop/CoagmentoIpad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests -o /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest.dSYM36"63FC7994-7640-4666-9694-CDC66D789EA2-
+b79A38CCD-6590-40D9-A45A-D76F7F07C453
+
+CLd /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests normal i386
+s410060175.472938
+e410060175.524487
+r1
+xLd
+x/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests
+xnormal
+xi386
+d/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.LinkFileList
+d/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpad.app/CoagmentoIpad
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/bundle1.o
+d/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Link /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests122"Ld DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests normal i3868526798f0571b841^5f45868f0571b841^---0#0#1#--2102"Ld DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests normal i386    cd /Users/norisrivas/Desktop/CoagmentoIpad    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator -F/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests.LinkFileList -bundle_loader /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpad.app/CoagmentoIpad -Xlinker -objc_abi_version -Xlinker 2 -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework XCTest -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/Objects-normal/i386/CoagmentoIpadTests_dependency_info.dat -o /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/CoagmentoIpadTests36"58ACDD11-20F6-479F-B265-93842AFA8037-
+b79A38CCD-6590-40D9-A45A-D76F7F07C453
+
+CProcessInfoPlistFile /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/Info.plist /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests-Info.plist
+s410060172.973648
+e410060172.975297
+r1
+xProcessInfoPlistFile
+x/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/Info.plist
+x/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Process /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests-Info.plist169"ProcessInfoPlistFile DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/Info.plist CoagmentoIpadTests/CoagmentoIpadTests-Info.plistd74df98c0571b841^4faef98c0571b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests-Info.plist0000000000000000^735"ProcessInfoPlistFile DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/Info.plist CoagmentoIpadTests/CoagmentoIpadTests-Info.plist    cd /Users/norisrivas/Desktop/CoagmentoIpad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpadTests/CoagmentoIpadTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest/Info.plist36"A3929096-F5AC-4559-A5EB-AEFC49FEB1CC-
+b79A38CCD-6590-40D9-A45A-D76F7F07C453
+
+CProcessPCH /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.pch CoagmentoIpad/CoagmentoIpad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410060172.975899
+e410060175.319821
+r1
+xProcessPCH
+x/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.pch
+xCoagmentoIpad/CoagmentoIpad-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpad/CoagmentoIpad-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile CoagmentoIpad/CoagmentoIpad-Prefix.pch261"ProcessPCH DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.pch CoagmentoIpad/CoagmentoIpad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7ee5f98c0571b841^1ae1518f0571b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpad/CoagmentoIpad-Prefix.pch0000000000000000^4343"ProcessPCH DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.pch CoagmentoIpad/CoagmentoIpad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/norisrivas/Desktop/CoagmentoIpad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-generated-files.hmap -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-own-target-headers.hmap -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-all-target-headers.hmap -iquote /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/CoagmentoIpadTests-project-headers.hmap -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/DerivedSources/i386 -I/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/CoagmentoIpad.build/Debug-iphonesimulator/CoagmentoIpadTests.build/DerivedSources -F/Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.dia -MMD -MT dependencies -MF /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.d -c /Users/norisrivas/Desktop/CoagmentoIpad/CoagmentoIpad/CoagmentoIpad-Prefix.pch -o /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-bvzmubuoxflxewgnzmyicpkmkbyp/CoagmentoIpad-Prefix.pch.pch36"A8C92A94-3465-4356-8440-DA06AE731C71-
+b79A38CCD-6590-40D9-A45A-D76F7F07C453
+
+CProcessPCH /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Intermediates/PrecompiledHeaders/CoagmentoIpad-Prefix-ffzadtznjaotxubbbscmpongmnfg/CoagmentoIpad-Prefix.pch.pch CoagmentoIpad/CoagmentoIpad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Index/PrecompiledHeaders/CoagmentoIpad-Prefix-hfnncxqugegxwhdugubsfmftopvy_ast/CoagmentoIpad-Prefix.pch.pch CoagmentoIpad/CoagmentoIpad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/norisrivas/Desktop/CoagmentoIpad/DerivedData/CoagmentoIpad/Build/Products/Debug-iphonesimulator/CoagmentoIpadTests.xctest
+r0
+

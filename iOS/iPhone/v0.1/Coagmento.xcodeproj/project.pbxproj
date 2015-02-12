@@ -1,0 +1,470 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		450F9586152277990027C97C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450F9585152277990027C97C /* UIKit.framework */; };
+		450F9588152277990027C97C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450F9587152277990027C97C /* Foundation.framework */; };
+		450F958A152277990027C97C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450F9589152277990027C97C /* CoreGraphics.framework */; };
+		450F9590152277990027C97C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 450F958E152277990027C97C /* InfoPlist.strings */; };
+		450F9592152277990027C97C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 450F9591152277990027C97C /* main.m */; };
+		450F9596152277990027C97C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 450F9595152277990027C97C /* AppDelegate.m */; };
+		450F9599152277990027C97C /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 450F9597152277990027C97C /* MainStoryboard_iPhone.storyboard */; };
+		450F959C152277990027C97C /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 450F959A152277990027C97C /* MainStoryboard_iPad.storyboard */; };
+		450F959F152277990027C97C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 450F959E152277990027C97C /* ViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		450F95A7152277990027C97C /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450F95A6152277990027C97C /* SenTestingKit.framework */; };
+		450F95A8152277990027C97C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450F9585152277990027C97C /* UIKit.framework */; };
+		450F95A9152277990027C97C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450F9587152277990027C97C /* Foundation.framework */; };
+		450F95B1152277990027C97C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 450F95AF152277990027C97C /* InfoPlist.strings */; };
+		450F95B4152277990027C97C /* CoagmentoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 450F95B3152277990027C97C /* CoagmentoTests.m */; };
+		450F95D0152956C40027C97C /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 450F95CF152956C40027C97C /* Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		450F95D3152957390027C97C /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 450F95D2152957390027C97C /* SystemConfiguration.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		450F95AA152277990027C97C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 450F9578152277990027C97C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 450F9580152277990027C97C;
+			remoteInfo = Coagmento;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		450F9581152277990027C97C /* Coagmento.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Coagmento.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		450F9585152277990027C97C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		450F9587152277990027C97C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		450F9589152277990027C97C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		450F958D152277990027C97C /* Coagmento-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Coagmento-Info.plist"; sourceTree = "<group>"; };
+		450F958F152277990027C97C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		450F9591152277990027C97C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		450F9593152277990027C97C /* Coagmento-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Coagmento-Prefix.pch"; sourceTree = "<group>"; };
+		450F9594152277990027C97C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		450F9595152277990027C97C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		450F9598152277990027C97C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		450F959B152277990027C97C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
+		450F959D152277990027C97C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		450F959E152277990027C97C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		450F95A5152277990027C97C /* CoagmentoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoagmentoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		450F95A6152277990027C97C /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		450F95AE152277990027C97C /* CoagmentoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CoagmentoTests-Info.plist"; sourceTree = "<group>"; };
+		450F95B0152277990027C97C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		450F95B2152277990027C97C /* CoagmentoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CoagmentoTests.h; sourceTree = "<group>"; };
+		450F95B3152277990027C97C /* CoagmentoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoagmentoTests.m; sourceTree = "<group>"; };
+		450F95CE152956C40027C97C /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		450F95CF152956C40027C97C /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		450F95D2152957390027C97C /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		450F957E152277990027C97C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450F95D3152957390027C97C /* SystemConfiguration.framework in Frameworks */,
+				450F9586152277990027C97C /* UIKit.framework in Frameworks */,
+				450F9588152277990027C97C /* Foundation.framework in Frameworks */,
+				450F958A152277990027C97C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		450F95A1152277990027C97C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450F95A7152277990027C97C /* SenTestingKit.framework in Frameworks */,
+				450F95A8152277990027C97C /* UIKit.framework in Frameworks */,
+				450F95A9152277990027C97C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		450F9576152277990027C97C = {
+			isa = PBXGroup;
+			children = (
+				450F958B152277990027C97C /* Coagmento */,
+				450F95AC152277990027C97C /* CoagmentoTests */,
+				450F9584152277990027C97C /* Frameworks */,
+				450F9582152277990027C97C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		450F9582152277990027C97C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				450F9581152277990027C97C /* Coagmento.app */,
+				450F95A5152277990027C97C /* CoagmentoTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		450F9584152277990027C97C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				450F95D2152957390027C97C /* SystemConfiguration.framework */,
+				450F9585152277990027C97C /* UIKit.framework */,
+				450F9587152277990027C97C /* Foundation.framework */,
+				450F9589152277990027C97C /* CoreGraphics.framework */,
+				450F95A6152277990027C97C /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		450F958B152277990027C97C /* Coagmento */ = {
+			isa = PBXGroup;
+			children = (
+				450F95CE152956C40027C97C /* Reachability.h */,
+				450F95CF152956C40027C97C /* Reachability.m */,
+				450F9594152277990027C97C /* AppDelegate.h */,
+				450F9595152277990027C97C /* AppDelegate.m */,
+				450F9597152277990027C97C /* MainStoryboard_iPhone.storyboard */,
+				450F959A152277990027C97C /* MainStoryboard_iPad.storyboard */,
+				450F959D152277990027C97C /* ViewController.h */,
+				450F959E152277990027C97C /* ViewController.m */,
+				450F958C152277990027C97C /* Supporting Files */,
+			);
+			path = Coagmento;
+			sourceTree = "<group>";
+		};
+		450F958C152277990027C97C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				450F958D152277990027C97C /* Coagmento-Info.plist */,
+				450F958E152277990027C97C /* InfoPlist.strings */,
+				450F9591152277990027C97C /* main.m */,
+				450F9593152277990027C97C /* Coagmento-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		450F95AC152277990027C97C /* CoagmentoTests */ = {
+			isa = PBXGroup;
+			children = (
+				450F95B2152277990027C97C /* CoagmentoTests.h */,
+				450F95B3152277990027C97C /* CoagmentoTests.m */,
+				450F95AD152277990027C97C /* Supporting Files */,
+			);
+			path = CoagmentoTests;
+			sourceTree = "<group>";
+		};
+		450F95AD152277990027C97C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				450F95AE152277990027C97C /* CoagmentoTests-Info.plist */,
+				450F95AF152277990027C97C /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		450F9580152277990027C97C /* Coagmento */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 450F95B7152277990027C97C /* Build configuration list for PBXNativeTarget "Coagmento" */;
+			buildPhases = (
+				450F957D152277990027C97C /* Sources */,
+				450F957E152277990027C97C /* Frameworks */,
+				450F957F152277990027C97C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Coagmento;
+			productName = Coagmento;
+			productReference = 450F9581152277990027C97C /* Coagmento.app */;
+			productType = "com.apple.product-type.application";
+		};
+		450F95A4152277990027C97C /* CoagmentoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 450F95BA152277990027C97C /* Build configuration list for PBXNativeTarget "CoagmentoTests" */;
+			buildPhases = (
+				450F95A0152277990027C97C /* Sources */,
+				450F95A1152277990027C97C /* Frameworks */,
+				450F95A2152277990027C97C /* Resources */,
+				450F95A3152277990027C97C /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				450F95AB152277990027C97C /* PBXTargetDependency */,
+			);
+			name = CoagmentoTests;
+			productName = CoagmentoTests;
+			productReference = 450F95A5152277990027C97C /* CoagmentoTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		450F9578152277990027C97C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 450F957B152277990027C97C /* Build configuration list for PBXProject "Coagmento" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 450F9576152277990027C97C;
+			productRefGroup = 450F9582152277990027C97C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				450F9580152277990027C97C /* Coagmento */,
+				450F95A4152277990027C97C /* CoagmentoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		450F957F152277990027C97C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450F9590152277990027C97C /* InfoPlist.strings in Resources */,
+				450F9599152277990027C97C /* MainStoryboard_iPhone.storyboard in Resources */,
+				450F959C152277990027C97C /* MainStoryboard_iPad.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		450F95A2152277990027C97C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450F95B1152277990027C97C /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		450F95A3152277990027C97C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		450F957D152277990027C97C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450F9592152277990027C97C /* main.m in Sources */,
+				450F9596152277990027C97C /* AppDelegate.m in Sources */,
+				450F959F152277990027C97C /* ViewController.m in Sources */,
+				450F95D0152956C40027C97C /* Reachability.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		450F95A0152277990027C97C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450F95B4152277990027C97C /* CoagmentoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		450F95AB152277990027C97C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 450F9580152277990027C97C /* Coagmento */;
+			targetProxy = 450F95AA152277990027C97C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		450F958E152277990027C97C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				450F958F152277990027C97C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		450F9597152277990027C97C /* MainStoryboard_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				450F9598152277990027C97C /* en */,
+			);
+			name = MainStoryboard_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		450F959A152277990027C97C /* MainStoryboard_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				450F959B152277990027C97C /* en */,
+			);
+			name = MainStoryboard_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		450F95AF152277990027C97C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				450F95B0152277990027C97C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		450F95B5152277990027C97C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		450F95B6152277990027C97C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		450F95B8152277990027C97C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Coagmento/Coagmento-Prefix.pch";
+				INFOPLIST_FILE = "Coagmento/Coagmento-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		450F95B9152277990027C97C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Coagmento/Coagmento-Prefix.pch";
+				INFOPLIST_FILE = "Coagmento/Coagmento-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		450F95BB152277990027C97C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Coagmento.app/Coagmento";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Coagmento/Coagmento-Prefix.pch";
+				INFOPLIST_FILE = "CoagmentoTests/CoagmentoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		450F95BC152277990027C97C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Coagmento.app/Coagmento";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Coagmento/Coagmento-Prefix.pch";
+				INFOPLIST_FILE = "CoagmentoTests/CoagmentoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		450F957B152277990027C97C /* Build configuration list for PBXProject "Coagmento" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				450F95B5152277990027C97C /* Debug */,
+				450F95B6152277990027C97C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		450F95B7152277990027C97C /* Build configuration list for PBXNativeTarget "Coagmento" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				450F95B8152277990027C97C /* Debug */,
+				450F95B9152277990027C97C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		450F95BA152277990027C97C /* Build configuration list for PBXNativeTarget "CoagmentoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				450F95BB152277990027C97C /* Debug */,
+				450F95BC152277990027C97C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 450F9578152277990027C97C /* Project object */;
+}
